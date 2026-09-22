@@ -20,7 +20,7 @@ A tarefa era identificar e eliminar esse desperdício.
 ## Arquitetura: antes e depois
 
 <p align="center">
-  <img src="Atividade otimizar a utilização - lab 189 -sem direitosl.png" alt="Diagrama comparando a infraestrutura da cafeteria antes e depois da otimização" width="800">
+  <img src="Atividade%20otimizar%20a%20utilização%20-%20lab%20189%20-sem%20direitosl%20.png" alt="Diagrama comparando a infraestrutura da cafeteria antes e depois da otimização" width="800">
 </p>
 
 | | Antes da otimização | Depois da otimização |
@@ -78,11 +78,11 @@ Usei a [AWS Pricing Calculator](https://calculator.aws) para comparar o custo es
 > Os valores acima refletem apenas o componente Amazon EC2 da estimativa (conforme os prints exportados da calculadora). A estimativa completa do cenário também inclui o custo do Amazon RDS, que não muda entre os dois cenários, já que o tipo de instância do banco não foi alterado nesta atividade.
 
 <p align="center">
-  <img src="estimativa_de_custo_antes_da_otimização__.png" alt="Estimativa de custo antes da otimização (t3.small)" width="600">
+  <img src="custo-antes-otimizacao.png" alt="Estimativa de custo antes da otimização (t3.small)" width="600">
 </p>
 
 <p align="center">
-  <img src="estimativa_de_custo_POS_da_otimização__.png" alt="Estimativa de custo depois da otimização (t3.micro)" width="600">
+  <img src="custo-depois-otimizacao.png" alt="Estimativa de custo depois da otimização (t3.micro)" width="600">
 </p>
 
 ---
